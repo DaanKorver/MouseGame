@@ -1,2 +1,2 @@
 # MouseGame
-URL: daankorver.com/MouseGame
+URL: http://www.daankorver.com/MouseGame
