@@ -1,2 +1,2 @@
 # MouseGame
-A Mouse game
+URL: daankorver.com/MouseGame
